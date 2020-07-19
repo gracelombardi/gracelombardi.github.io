@@ -1,10 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
 
 header {
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 header .row,
@@ -30,7 +35,7 @@ header nav {
   background-image: url("branderthlakewebsite.jpeg");
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 700px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
@@ -59,7 +64,7 @@ section .row img {
 
 footer {
   font-size: 12px;
-  padding: 20px 0;
+  padding: 0 0;
 }
 
 footer .col-sm-8 {
